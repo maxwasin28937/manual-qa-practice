@@ -33,3 +33,17 @@
 - **Expected Result:** The system prevents login and indicates the required fields.
 - **Actual Result:** To be tested.
 - **Status:** Not Run
+
+ 
+
+## TC-LOGIN-005: Login with leading or trailing spaces in username
+
+- **Objective:** Verify how the login form handles spaces around the username.
+- **Preconditions:** A test account exists.
+- **Steps:**
+  1. Open the login page.
+  2. Enter a valid username with leading or trailing spaces.
+  3. Enter the correct password.
+  4. Click Login.
+- **Expected Result:** The application handles the username consistently with the documented requirements.
+- **Status:** Not Run
