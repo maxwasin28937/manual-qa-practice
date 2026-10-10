@@ -33,3 +33,16 @@
 - **Expected Result:** The system prevents login and indicates the required fields.
 - **Actual Result:** To be tested.
 - **Status:** Not Run
+
+
+## TC-LOGIN-004: Login with empty password
+- **Objective:** Verify that login is prevented when the password is empty.
+- **Precondition:** A registered user exists.
+- **Test Steps:**
+  1. Open the Login page.
+  2. Enter a registered email.
+  3. Leave the password field empty.
+  4. Click the Login button.
+- **Expected Result:** Login is prevented and the appropriate validation message is displayed.
+- **Actual Result:** To be tested.
+- **Status:** Not Run
