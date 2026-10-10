@@ -47,3 +47,20 @@
   4. Click Login.
 - **Expected Result:** The application handles the username consistently with the documented requirements.
 - **Status:** Not Run
+
+
+ 
+
+## Test Execution Record
+
+| Field | Details |
+|---|---|
+| Test Case ID | TC-LOGIN-002 |
+| Test Objective | Verify error message for incorrect password |
+| Test Environment | Not specified |
+| Test Date | Not executed |
+| Expected Result | The application displays the expected error message |
+| Actual Result | Not executed |
+| Status | Not Run |
+| Evidence | Not available |
+| Tester Notes | Pending execution in the actual test environment |
